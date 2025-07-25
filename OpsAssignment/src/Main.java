@@ -1,17 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-/*
-222098856 Salafia Ndeshikeya
-223063495 Barthromew M Mufaya Junior
-223003344 Martha Haihambo
-223053147 Fidelity Friedriech
-223010391 Ndatungeumbo Dumeni
-222115823 Nicola Basson
-222129433 Shalom Birech
-220088047 Joshua Muulike
-Stacy T Muheua 223063215
- */
+
 //SRT Scheduling algorithm
 class Records {
     int rowNumber;
